@@ -12,7 +12,7 @@ app.set('json spaces', 2);
 
 // Middlewares
 app.use(cors({
-    origin: 'http://localhost:3000', 
+    origin: 'https://web-app-with-custom-api-integration.vercel.app/', //Url del server local o dominio
 }));
 app.use(morgan('dev'));
 app.use(express.urlencoded({ extended: false }));
