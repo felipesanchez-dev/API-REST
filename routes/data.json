@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "Frase": "La vida es 10% lo que te ocurre y 90% cómo reaccionas a ello.",
+        "Autor": "Charles R. Swindoll"
+    },
+    {
+        "id": 2,
+        "Frase": "La única manera de hacer un gran trabajo es amar lo que haces.",
+        "Autor": "Steve Jobs"
+    },
+    {
+        "id": 3,
+        "Frase": "La felicidad no depende de condiciones externas, está gobernada por nuestra actitud mental.",
+        "Autor": "Dale Carnegie"
+    },
+    {
+        "id": 4,
+        "Frase": "Haz lo que puedas, con lo que tengas, donde estés.",
+        "Autor": "Theodore Roosevelt"
+    },
+    {
+        "id": 5,
+        "Frase": "No hay atajos para ningún lugar al que merezca la pena ir.",
+        "Autor": "Beverly Sills"
+    },
+    {
+        "id": 6,
+        "Frase": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+        "Autor": "Robert Collier"
+    },
+    {
+        "id": 7,
+        "Frase": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+        "Autor": "John Lennon"
+    },
+    {
+        "id": 8,
+        "Frase": "La mejor manera de predecir el futuro es inventarlo.",
+        "Autor": "Alan Kay"
+    },
+    {
+        "id": 9,
+        "Frase": "Nunca dejes que el miedo decida tu destino.",
+        "Autor": "Zig Ziglar"
+    },
+    {
+        "id": 10,
+        "Frase": "No es lo que tienes o quién eres, o dónde estás, o lo que haces, lo que te hace feliz o infeliz. Es lo que piensas.",
+        "Autor": "Dale Carnegie"
+    },
+    {
+        "id": 11,
+        "Frase": "A veces se gana, a veces se aprende.",
+        "Autor": "John C. Maxwell"
+    },
+    {
+        "id": 12,
+        "Frase": "El hombre no se define por lo que posee, sino por lo que es.",
+        "Autor": "Oscar Wilde"
+    },
+    {
+        "id": 13,
+        "Frase": "No se puede volver atrás y cambiar el principio, pero se puede comenzar donde se está y cambiar el final.",
+        "Autor": "C. S. Lewis"
+    },
+    {
+        "id": 14,
+        "Frase": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+        "Autor": "Nelson Mandela"
+    },
+    {
+        "id": 15,
+        "Frase": "Es difícil vencer a una persona que nunca se rinde.",
+        "Autor": "Babe Ruth"
+    },
+    {
+        "id": 16,
+        "Frase": "Nunca es demasiado tarde para ser la persona que podrías haber sido.",
+        "Autor": "George Eliot"
+    },
+    {
+        "id": 17,
+        "Frase": "El mayor riesgo es no tomar ninguno.",
+        "Autor": "Mark Zuckerberg"
+    },
+    {
+        "id": 18,
+        "Frase": "Si puedes soñarlo, puedes hacerlo.",
+        "Autor": "Walt Disney"
+    },
+    {
+        "id": 19,
+        "Frase": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+        "Autor": "Albert Schweitzer"
+    },
+    {
+        "id": 20,
+        "Frase": "La imaginación lo es todo. Es la vista preliminar de las atracciones de la vida que vendrán.",
+        "Autor": "Albert Einstein"
+    },
+    {
+        "id": 21,
+        "Frase": "La vida es como una bicicleta, para mantener el equilibrio debes seguir adelante.",
+        "Autor": "Albert Einstein"
+    },
+    {
+        "id": 22,
+        "Frase": "El éxito consiste en ir de fracaso en fracaso sin perder el entusiasmo.",
+        "Autor": "Winston Churchill"
+    },
+    {
+        "id": 23,
+        "Frase": "El único modo de hacer un gran trabajo es amar lo que haces.",
+        "Autor": "Steve Jobs"
+    },
+    {
+        "id": 24,
+        "Frase": "Siempre parece imposible hasta que se hace.",
+        "Autor": "Nelson Mandela"
+    },
+    {
+        "id": 25,
+        "Frase": "Todo lo que puedas imaginar es real.",
+        "Autor": "Pablo Picasso"
+    },
+    {
+        "id": 26,
+        "Frase": "Si puedes soñarlo, puedes lograrlo.",
+        "Autor": "Zig Ziglar"
+    },
+    {
+        "id": 27,
+        "Frase": "Nunca sabes lo fuerte que eres hasta que ser fuerte es tu única opción.",
+        "Autor": "Bob Marley"
+    },
+    {
+        "id": 28,
+        "Frase": "El fracaso es la oportunidad de comenzar de nuevo con más inteligencia.",
+        "Autor": "Henry Ford"
+    },
+    {
+        "id": 29,
+        "Frase": "La paciencia, persistencia y transpiración son una combinación imbatible para el éxito.",
+        "Autor": "Napoleón Hill"
+    },
+    {
+        "id": 30,
+        "Frase": "No cuentes los días, haz que los días cuenten.",
+        "Autor": "Muhammad Ali"
+    },
+    {
+        "id": 31,
+        "Frase": "La acción es la clave fundamental de todo éxito.",
+        "Autor": "Pablo Picasso"
+    },
+    {
+        "id": 32,
+        "Frase": "No sueñes tu vida, vive tu sueño.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 33,
+        "Frase": "Los obstáculos son esas cosas espantosas que ves cuando apartas los ojos de tu meta.",
+        "Autor": "Henry Ford"
+    },
+    {
+        "id": 34,
+        "Frase": "Cree que puedes y ya estás a mitad de camino.",
+        "Autor": "Theodore Roosevelt"
+    },
+    {
+        "id": 35,
+        "Frase": "El cambio es el resultado final de todo verdadero aprendizaje.",
+        "Autor": "Leo Buscaglia"
+    },
+    {
+        "id": 36,
+        "Frase": "Las oportunidades no pasan, las creas.",
+        "Autor": "Chris Grosser"
+    },
+    {
+        "id": 37,
+        "Frase": "El éxito es la capacidad de ir de fracaso en fracaso sin perder el entusiasmo.",
+        "Autor": "Winston Churchill"
+    },
+    {
+        "id": 38,
+        "Frase": "Aprende a ser feliz con lo que tienes mientras persigues lo que quieres.",
+        "Autor": "Jim Rohn"
+    },
+    {
+        "id": 39,
+        "Frase": "La única forma de lograr el éxito es perseverando cuando todos los demás ya han renunciado.",
+        "Autor": "James Dyson"
+    },
+    {
+        "id": 40,
+        "Frase": "Cada logro comienza con la decisión de intentarlo.",
+        "Autor": "Gail Devers"
+    },
+    {
+        "id": 41,
+        "Frase": "El único límite a nuestros logros de mañana está en nuestras dudas de hoy.",
+        "Autor": "Franklin D. Roosevelt"
+    },
+    {
+        "id": 42,
+        "Frase": "El tiempo que disfrutas perdiendo no es tiempo perdido.",
+        "Autor": "Marthe Troly-Curtin"
+    },
+    {
+        "id": 43,
+        "Frase": "El camino al éxito y el camino al fracaso son casi exactamente los mismos.",
+        "Autor": "Colin R. Davis"
+    },
+    {
+        "id": 44,
+        "Frase": "La gratitud abre la puerta a la abundancia.",
+        "Autor": "Oprah Winfrey"
+    },
+    {
+        "id": 45,
+        "Frase": "Cada día es una oportunidad para cambiar la historia.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 46,
+        "Frase": "Tu pasión es lo que te hace olvidar que es trabajo.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 47,
+        "Frase": "Cuanto más enérgicamente persigas tus sueños, más cerca estarás de lograrlos.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 48,
+        "Frase": "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
+        "Autor": "Eleanor Roosevelt"
+    },
+    {
+        "id": 49,
+        "Frase": "Cuando te levantas por la mañana, piensa en el privilegio que es estar vivo.",
+        "Autor": "Marco Aurelio"
+    },
+    {
+        "id": 50,
+        "Frase": "La vida no se trata de encontrarse a uno mismo, sino de crearse a uno mismo.",
+        "Autor": "George Bernard Shaw"
+    },
+    {
+        "id": 51,
+        "Frase": "El éxito llega para aquellos que están dispuestos a trabajar un poco más duro que el resto.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 52,
+        "Frase": "La mejor preparación para mañana es hacer lo mejor posible hoy.",
+        "Autor": "H. Jackson Brown Jr."
+    },
+    {
+        "id": 53,
+        "Frase": "No busques ser el mejor, busca ser el mejor para los demás.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 54,
+        "Frase": "La vida es corta. Vive, ríe, ama y disfruta cada momento.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 55,
+        "Frase": "Todo es posible si tienes suficiente coraje.",
+        "Autor": "J.K. Rowling"
+    },
+    {
+        "id": 56,
+        "Frase": "Lo que hacemos en la vida tiene su eco en la eternidad.",
+        "Autor": "Marcus Aurelius"
+    },
+    {
+        "id": 57,
+        "Frase": "La perseverancia es el trabajo duro que haces después de estar cansado del trabajo que ya hiciste.",
+        "Autor": "Newt Gingrich"
+    },
+    {
+        "id": 58,
+        "Frase": "Las dificultades a menudo preparan a la gente común para un destino extraordinario.",
+        "Autor": "C.S. Lewis"
+    },
+    {
+        "id": 59,
+        "Frase": "No cuentes tus días, haz que tus días cuenten.",
+        "Autor": "Muhammad Ali"
+    },
+    {
+        "id": 60,
+        "Frase": "La grandeza de una persona no se mide por su éxito, sino por su humildad.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 61,
+        "Frase": "La única forma de hacer un buen trabajo es amar lo que haces.",
+        "Autor": "Steve Jobs"
+    },
+    {
+        "id": 62,
+        "Frase": "El dolor que sientes hoy es la fuerza que sentirás mañana.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 63,
+        "Frase": "Cuando todo parezca ir en tu contra, recuerda que el avión despega contra el viento, no a favor.",
+        "Autor": "Henry Ford"
+    },
+    {
+        "id": 64,
+        "Frase": "Las oportunidades son como los amaneceres. Si esperas demasiado, los pierdes.",
+        "Autor": "William Arthur Ward"
+    },
+    {
+        "id": 65,
+        "Frase": "La esperanza es un sueño despierto.",
+        "Autor": "Aristóteles"
+    },
+    {
+        "id": 66,
+        "Frase": "Nunca es tarde para ser quien podrías haber sido.",
+        "Autor": "George Eliot"
+    },
+    {
+        "id": 67,
+        "Frase": "La adversidad es la piedra de toque del carácter.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 68,
+        "Frase": "Un viaje de mil millas comienza con un solo paso.",
+        "Autor": "Lao Tse"
+    },
+    {
+        "id": 69,
+        "Frase": "La confianza en sí mismo es el primer secreto del éxito.",
+        "Autor": "Ralph Waldo Emerson"
+    },
+    {
+        "id": 70,
+        "Frase": "A veces se gana, a veces se aprende.",
+        "Autor": "John C. Maxwell"
+    },
+    {
+        "id": 71,
+        "Frase": "El que no es lo suficientemente valiente como para correr riesgos, no logrará nada en la vida.",
+        "Autor": "Muhammad Ali"
+    },
+    {
+        "id": 72,
+        "Frase": "La verdadera riqueza consiste en no desear nada.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 73,
+        "Frase": "La paz comienza con una sonrisa.",
+        "Autor": "Madre Teresa"
+    },
+    {
+        "id": 74,
+        "Frase": "No te preocupes por los fracasos; preocúpate por las oportunidades que pierdes al no intentarlo.",
+        "Autor": "Jack Canfield"
+    },
+    {
+        "id": 75,
+        "Frase": "El tiempo es más valioso que el dinero. Puedes obtener más dinero, pero no puedes obtener más tiempo.",
+        "Autor": "Jim Rohn"
+    },
+    {
+        "id": 76,
+        "Frase": "La medida de la inteligencia es la capacidad de cambiar.",
+        "Autor": "Albert Einstein"
+    },
+    {
+        "id": 77,
+        "Frase": "Tu tiempo es limitado, no lo desperdicies viviendo la vida de otra persona.",
+        "Autor": "Steve Jobs"
+    },
+    {
+        "id": 78,
+        "Frase": "La felicidad es disfrutar de las pequeñas cosas de la vida.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 79,
+        "Frase": "Si no puedes hacer grandes cosas, haz pequeñas cosas de manera grandiosa.",
+        "Autor": "Napoleón Hill"
+    },
+    {
+        "id": 80,
+        "Frase": "El fracaso es solo la oportunidad de comenzar de nuevo, esta vez de manera más inteligente.",
+        "Autor": "Henry Ford"
+    },
+    {
+        "id": 81,
+        "Frase": "Cree en ti mismo y todo será posible.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 82,
+        "Frase": "Nada grande se ha logrado sin entusiasmo.",
+        "Autor": "Ralph Waldo Emerson"
+    },
+    {
+        "id": 83,
+        "Frase": "La vida es 10% lo que te sucede y 90% cómo reaccionas.",
+        "Autor": "Charles R. Swindoll"
+    },
+    {
+        "id": 84,
+        "Frase": "El pasado no se puede cambiar. El futuro aún está en tu poder.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 85,
+        "Frase": "No eres una gota en el océano, eres el océano en una gota.",
+        "Autor": "Rumi"
+    },
+    {
+        "id": 86,
+        "Frase": "El único modo de hacer un gran trabajo es amar lo que haces.",
+        "Autor": "Steve Jobs"
+    },
+    {
+        "id": 87,
+        "Frase": "Si tienes todo bajo control, no estás avanzando lo suficientemente rápido.",
+        "Autor": "Mario Andretti"
+    },
+    {
+        "id": 88,
+        "Frase": "El único modo de hacer un gran trabajo es amar lo que haces.",
+        "Autor": "Steve Jobs"
+    },
+    {
+        "id": 89,
+        "Frase": "No pierdas tu energía tratando de cambiar opiniones. Haz lo tuyo y no te preocupes si les gusta.",
+        "Autor": "Tina Fey"
+    },
+    {
+        "id": 90,
+        "Frase": "No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor se adapta al cambio.",
+        "Autor": "Charles Darwin"
+    },
+    {
+        "id": 91,
+        "Frase": "Haz lo que amas y el éxito llegará solo.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 92,
+        "Frase": "Una meta es un sueño con fecha límite.",
+        "Autor": "Napoleón Hill"
+    },
+    {
+        "id": 93,
+        "Frase": "La vida es demasiado importante para ser tomada en serio.",
+        "Autor": "Oscar Wilde"
+    },
+    {
+        "id": 94,
+        "Frase": "La clave para vivir una vida plena es mantener siempre el asombro de un niño.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 95,
+        "Frase": "No hay nada imposible. La propia palabra dice 'soy posible'.",
+        "Autor": "Audrey Hepburn"
+    },
+    {
+        "id": 96,
+        "Frase": "La única manera de hacer un gran trabajo es amar lo que haces.",
+        "Autor": "Steve Jobs"
+    },
+    {
+        "id": 97,
+        "Frase": "La inspiración existe, pero tiene que encontrarte trabajando.",
+        "Autor": "Pablo Picasso"
+    },
+    {
+        "id": 98,
+        "Frase": "La vida es un viaje que debe ser disfrutado, no soportado.",
+        "Autor": "Desconocido"
+    },
+    {
+        "id": 99,
+        "Frase": "Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado.",
+        "Autor": "Proverbio africano"
+    },
+    {
+        "id": 100,
+        "Frase": "Lo que cuenta no es lo que logras, sino los obstáculos que superas.",
+        "Autor": "Desconocido"
+    }
+]
