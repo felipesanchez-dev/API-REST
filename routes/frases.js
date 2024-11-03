@@ -5,6 +5,11 @@ const router = Router();
 // Import the JSON file containing phrases
 const fraseDelDia = require('../routes/data.json');
 
+// GET route to fetch all phrases
+router.get('/frase', (req, res) => {
+    res.json(fraseDelDia); // Return all phrases
+});
+
 // GET route to fetch a phrase by ID
 router.get('/frase/:id', (req, res) => {
     const { id } = req.params;
@@ -66,4 +71,5 @@ router.delete('/:id', (req, res) => {
         res.status(404).json({ error: 'Phrase not found.' }); // Send a 404 Not Found response
     }
 });
+
 module.exports = router;
