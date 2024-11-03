@@ -14,6 +14,7 @@ app.set('json spaces', 2);
 app.use(cors({
     origin: 'https://web-app-with-custom-api-integration.vercel.app' // Especifica el origen permitido
 }));
+app.use(cors());
 app.use(morgan('dev'));
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
