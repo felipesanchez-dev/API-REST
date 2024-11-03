@@ -11,7 +11,9 @@ app.set('port', process.env.PORT || 3001);
 app.set('json spaces', 2);
 
 // Middlewares
-app.use(cors());
+app.use(cors({
+    origin: 'http://localhost:3000', 
+}));
 app.use(morgan('dev'));
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
